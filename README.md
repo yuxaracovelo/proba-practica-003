@@ -3,7 +3,11 @@
 ### **📚 Contexto**
 Traballas como desenvolvedor/a web nunha axencia de deseño e recibiches un proxecto da **Clínica Dental Sonrisa**. O cliente enviou uns arquivos iniciais pero necesitan **mellorarse significativamente** antes de poder publicar o sitio web.
 
-Dirixete ao repositorio do proxecto e fai un **fork** do repositorio orixinal ao teu perfil GitHub. Descarga o teu fork ao teu ordenador e **completa as tarefas** co fin de obter unha páxina web profesional, accesible e ben estruturada.
+Dirixete ao repositorio do proxecto 
+https://github.com/nunhes/proba-practica-003
+e fai un **fork** do repositorio orixinal ao teu perfil GitHub. Descarga o teu fork ao teu ordenador e **completa as tarefas** co fin de obter unha páxina web profesional, accesible e ben estruturada.
+
+Cando remates a tarefa sube o rsultado ao teu repositorio GitHub. E remite a URL do teu repositorio ao profesor.
 
 ---
 
