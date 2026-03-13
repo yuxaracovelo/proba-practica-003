@@ -115,9 +115,9 @@ clínica-dental/
 │   └── styles.css
 ├── js/
 │   └── main.js
-├── assets/
+├── img/
 │   ├── favicon.ico
-│   └── (outros recursos)
+│   └── (outras imaxes)
 └── README.md
 ```
 
